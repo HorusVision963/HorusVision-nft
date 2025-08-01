@@ -1,0 +1,28 @@
+{
+  "name": "HorusVision #001 – Divine Interface",
+  "description": "This NFT is a sacred access point to HorusVision — a digital movement of wisdom, energy, and spiritual financial awakening. Included with this token is 'The Quantum Code of Inner Power,' a wisdom-rich PDF that explores the Universal Laws, subconscious mastery, quantum potential, and your role in shaping the New World.",
+  "image": "https://raw.githubusercontent.com/HorusVision963/HorusVision-nft/main/media/horusvision-001.png",
+  "external_url": "https://raw.githubusercontent.com/HorusVision963/HorusVision-nft/main/Horus%20Vision%20Quantum%20Code.pdf",
+  "attributes": [
+    {
+      "trait_type": "Vibration",
+      "value": "High Frequency"
+    },
+    {
+      "trait_type": "Elemental Energy",
+      "value": "Etheric"
+    },
+    {
+      "trait_type": "Wisdom Tier",
+      "value": "Divine Light"
+    },
+    {
+      "trait_type": "Access",
+      "value": "Quantum Scroll"
+    },
+    {
+      "trait_type": "Realm",
+      "value": "Subconscious Interface"
+    }
+  ]
+}
